@@ -1,0 +1,36 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="364" filedate="2009-07-22 17:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/cover.jpg" filesize="18779" filedate="2016-06-11 18:07:02" width="476px" height="720px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 15:17:10" width="12px" height="12px">
+</image>
+<image path="images/frontispiece.jpg" filesize="44282" filedate="2016-06-11 17:54:40" width="561px" height="387px">
+</image>
+<image path="images/p020.jpg" filesize="28700" filedate="2016-06-11 17:56:38" width="335px" height="508px">
+</image>
+<image path="images/p028.jpg" filesize="32366" filedate="2016-06-11 17:57:40" width="338px" height="422px">
+</image>
+<image path="images/p070.jpg" filesize="37089" filedate="2016-06-11 17:58:50" width="340px" height="455px">
+</image>
+<image path="images/p090.png" filesize="6462" filedate="2016-06-11 17:55:41" width="238px" height="264px">
+</image>
+<image path="images/p092.jpg" filesize="38536" filedate="2016-06-11 17:49:07" width="366px" height="559px">
+</image>
+<image path="images/p094.jpg" filesize="24565" filedate="2016-06-11 17:59:42" width="313px" height="388px">
+</image>
+<image path="images/p100.jpg" filesize="26111" filedate="2016-06-11 17:48:22" width="317px" height="455px">
+</image>
+<image path="images/p112.jpg" filesize="29215" filedate="2016-06-11 17:50:01" width="362px" height="513px">
+</image>
+<image path="images/p120.jpg" filesize="25273" filedate="2016-06-11 17:53:42" width="337px" height="383px">
+</image>
+<image path="images/p136.jpg" filesize="36636" filedate="2016-06-11 17:52:33" width="553px" height="348px">
+</image>
+<image path="images/p142.jpg" filesize="45264" filedate="2016-06-11 17:51:18" width="562px" height="362px">
+</image>
+<image path="images/titlepage.png" filesize="14327" filedate="2016-06-11 17:45:18" width="438px" height="720px">
+</image>
+</images>

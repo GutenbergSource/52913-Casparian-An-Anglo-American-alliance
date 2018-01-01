@@ -1,0 +1,16 @@
+
+h3, .h3 {
+    text-align: center;
+}
+
+.section {
+    padding-top: 1.2em;
+}
+
+.boxed {
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    line-height: 3ex;
+    border: 1px solid black;
+}
